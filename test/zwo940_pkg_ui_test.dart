@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright 2025 Marcus-Erich Seidler (https://zwo940.de)
+
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:zwo940_pkg_ui/zwo940_pkg_ui.dart';

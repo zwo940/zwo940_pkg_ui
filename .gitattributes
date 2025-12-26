@@ -1,0 +1,10 @@
+windows/**  linguist-vendored
+linux/**    linguist-vendored
+macos/**    linguist-vendored
+
+build/**        linguist-generated
+.dart_tool/**   linguist-generated
+
+docs/**          linguist-documentation
+**/*.md          linguist-documentation
+
